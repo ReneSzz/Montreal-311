@@ -1,8 +1,8 @@
 # Montreal 311 Service Request Analysis
 
-A Python data cleaning and analysis pipeline for 3,034,731 city service requests submitted to Montreal's 311 system between 2022 and 2026, using open data published by the Ville de Montréal.
+A Python data cleaning and analysis pipeline for 3,034,731 city service requests submitted to Montreal's 311 system between 2022 and 2025, using open data published by the Ville de Montréal.
 
-![Requests by Borough](screenshots/01_requests_by_borough.png)
+<img width="750" height="525" alt="01_requests_by_borough" src="https://github.com/user-attachments/assets/dfcd5437-c02e-4465-8114-9e766a8b6308" />
 
 ---
 
@@ -49,7 +49,7 @@ Five analyses printed to terminal:
 ### 4. Generates 5 charts
 Saved to `/screenshots/`:
 - `01_requests_by_borough.png` — horizontal bar, top 15 boroughs by total volume
-- `02_monthly_volume.png` — line chart with area fill, monthly trend 2022–2026
+- `02_monthly_volume.png` — line chart with area fill, monthly trend 2022–2025
 - `03_request_types.png` — pie chart by request type
 - `04_submission_channels.png` — horizontal bar by submission channel
 - `05_types_by_borough.png` — stacked bar showing request type breakdown per borough
