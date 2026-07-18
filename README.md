@@ -71,7 +71,6 @@ Of 3,034,731 total submissions, 2,295,671 (75.6%) came in by phone. Mobile, web,
 
 
 
-
 **2. Nearly all borough-level requests are Requêtes — complaints and comments are negligible.**
 Across every borough in the top 15, Requête (service requests) make up the overwhelming majority of volume. Plainte (complaints) and Commentaire are barely visible even at scale, confirming that residents use 311 primarily to request services, not to formally complain.
 
@@ -99,6 +98,7 @@ Yearly volumes were consistent from 2022 (660,554) through 2024 (639,090), with 
 **5. Requête and Information together account for 98.2% of all requests.**
 Requête makes up 52.3% (1,588,391) and Information 45.9% (1,391,644) of total volume. Plainte and Commentaire each represent just 0.9% — confirming that 311 functions as a service request and information line, not a complaints channel. The top request topics are Taxes foncières (188,884), Collecte de déchets (147,665), and Dépôt illégal (109,929).
 
+<img width="1051" height="1183" alt="03_request_types" src="https://github.com/user-attachments/assets/f5d68c72-e29f-45dc-a52b-83c0cbcbe6e6" />
 
 
 ---
