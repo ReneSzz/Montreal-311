@@ -73,24 +73,29 @@ A 1,000-row sample is included in this repo at output/montreal_311_sample.csv fo
 
 1. Phone dominates submissions at 75.6% — digital channels combined account for only 11.1%.
 Of 3,034,731 total submissions, 2,295,671 (75.6%) came in by phone. Mobile, web, and email combined account for just 11.1% (336,259 requests). A further 7.8% (237,006) have no channel recorded, suggesting gaps in data capture for older records. Despite the availability of digital alternatives, the 311 system remains overwhelmingly phone-driven.
+<details>
 <img width="1350" height="750" alt="04_submission_channels" src="https://github.com/user-attachments/assets/0badb81a-fd55-4a6f-8baa-a2e9e08412df" />
-
-2. Nearly all borough-level requests are Requêtes — complaints and comments are negligible.
+</details>
+3. Nearly all borough-level requests are Requêtes — complaints and comments are negligible.
 Across every borough in the top 15, Requête (service requests) make up the overwhelming majority of volume. Plainte (complaints) and Commentaire are barely visible even at scale, confirming that residents use 311 primarily to request services, not to formally complain.
+<details>
 <img width="1622" height="1026" alt="05_types_by_borough" src="https://github.com/user-attachments/assets/1961be28-08d8-4858-b183-3afa20c5f432" />
-
-3. Mercier–Hochelaga-Maisonneuve leads all boroughs with 162,204 requests.
+</details>
+5. Mercier–Hochelaga-Maisonneuve leads all boroughs with 162,204 requests.
 The top 6 boroughs — Mercier–Hochelaga-Maisonneuve (162,204), Rosemont–La Petite-Patrie (139,199), Ahuntsic–Cartierville (135,281), Ville-Marie (134,482), Saint-Laurent (131,722), and Le Plateau-Mont-Royal (131,130) — are closely clustered, each handling between 131k and 162k requests over the period.
+<details>
 <img width="1500" height="1050" alt="01_requests_by_borough" src="https://github.com/user-attachments/assets/10dfdfac-f0b7-4591-b55f-51fb225adaef" />
-
-4. Annual volume is stable with a slight upward trend — 2025 was the busiest year on record.
+</details>
+7. Annual volume is stable with a slight upward trend — 2025 was the busiest year on record.
 Yearly volumes were consistent from 2022 (660,554) through 2024 (639,090), with 2025 seeing the highest volume at 696,479 — a 5.4% increase over 2022. The 2026 figure (398,677) reflects a partial year. Monthly volume shows a clear seasonal rhythm peaking in spring and summer, driven by outdoor service requests like pothole repairs and waste collection.
+<details>
 <img width="2100" height="750" alt="02_monthly_volume" src="https://github.com/user-attachments/assets/48c3c2f7-449c-4a0c-ae71-e828b55b160c" />
-
-5. Requête and Information together account for 98.2% of all requests.
+</details>
+9. Requête and Information together account for 98.2% of all requests.
 Requête makes up 52.3% (1,588,391) and Information 45.9% (1,391,644) of total volume. Plainte and Commentaire each represent just 0.9% — confirming that 311 functions as a service request and information line, not a complaints channel. The top request topics are Taxes foncières (188,884), Collecte de déchets (147,665), and Dépôt illégal (109,929).
+<details>
 <img width="1051" height="1183" alt="03_request_types" src="https://github.com/user-attachments/assets/17566171-87c4-44b3-8020-a36d43c44ee1" />
-
+</details>
 
 ###Tools Used
 
