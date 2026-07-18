@@ -5,6 +5,6 @@
 
 ## Request Types
 
-# Submission Channels 
+## Submission Channels 
 
 ## Type of request by burough
