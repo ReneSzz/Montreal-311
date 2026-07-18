@@ -70,10 +70,14 @@ Of 3,034,731 total submissions, 2,295,671 (75.6%) came in by phone. Mobile, web,
 <img width="1350" height="750" alt="04_submission_channels" src="https://github.com/user-attachments/assets/c5544bc6-400d-4a98-a749-649a5dd8d91b" />
 
 
+
+
 **2. Nearly all borough-level requests are Requêtes — complaints and comments are negligible.**
 Across every borough in the top 15, Requête (service requests) make up the overwhelming majority of volume. Plainte (complaints) and Commentaire are barely visible even at scale, confirming that residents use 311 primarily to request services, not to formally complain.
 
 <img width="1622" height="1026" alt="05_types_by_borough" src="https://github.com/user-attachments/assets/cfb05443-d237-4f55-9a0b-2a4078bfa8ec" />
+
+
 
 
 **3. Mercier–Hochelaga-Maisonneuve leads all boroughs with 162,204 requests.**
@@ -82,17 +86,20 @@ The top 6 boroughs — Mercier–Hochelaga-Maisonneuve (162,204), Rosemont–La 
 <img width="1500" height="1050" alt="01_requests_by_borough" src="https://github.com/user-attachments/assets/917d90d1-799e-4e88-9891-74afe5c6de3c" />
 
 
+
+
 **4. Annual volume is stable with a slight upward trend — 2025 was the busiest year on record.**
 Yearly volumes were consistent from 2022 (660,554) through 2024 (639,090), with 2025 seeing the highest volume at 696,479 — a 5.4% increase over 2022. The 2026 figure (398,677) reflects a partial year. Monthly volume shows a clear seasonal rhythm peaking in spring and summer, driven by outdoor service requests like pothole repairs and waste collection.
 
 <img width="2100" height="750" alt="02_monthly_volume" src="https://github.com/user-attachments/assets/062cbef0-9384-461d-8ea2-0913c6d4be08" />
 
-![Monthly Volume](screenshots/02_monthly_volume.png)
+
+
 
 **5. Requête and Information together account for 98.2% of all requests.**
 Requête makes up 52.3% (1,588,391) and Information 45.9% (1,391,644) of total volume. Plainte and Commentaire each represent just 0.9% — confirming that 311 functions as a service request and information line, not a complaints channel. The top request topics are Taxes foncières (188,884), Collecte de déchets (147,665), and Dépôt illégal (109,929).
 
-![Request Types](screenshots/03_request_types.png)
+
 
 ---
 
